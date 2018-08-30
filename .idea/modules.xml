@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/budan6-oauth2-service/budan6-oauth2-service.iml" filepath="$PROJECT_DIR$/budan6-oauth2-service/budan6-oauth2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/budan6-service-common/budan6-service-common.iml" filepath="$PROJECT_DIR$/budan6-service-common/budan6-service-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/budan6-service-parent/budan6-service-parent.iml" filepath="$PROJECT_DIR$/budan6-service-parent/budan6-service-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/budan6-user-service/budan6-user-service.iml" filepath="$PROJECT_DIR$/budan6-user-service/budan6-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/spring-boot.iml" />
+    </modules>
+  </component>
+</project>
